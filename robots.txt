@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# 중요 페이지들
+Sitemap: https://sfracing.io/sitemap.xml
+
+# 크롤링 빈도 조절
+Crawl-delay: 1
